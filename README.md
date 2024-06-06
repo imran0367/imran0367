@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imran0367
+- 👋 Hi, I’m Imran
 - 👀 I’m interested in Networking.
 - 🌱 I’m currently learning Computer Networking, Linux, Shell scripting and Exploring Cloud platforms.
 - 💞️ I’m looking to collaborate on ...
